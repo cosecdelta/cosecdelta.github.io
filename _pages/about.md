@@ -16,11 +16,12 @@ redirect_from:
 
 🔬 My research interests lies in the interface of developing **machine-learning/deep-learning** algorithm in context of medical imaging and computer vision. Specifically, my PhD dissertation research focuses on developing novel deep-learning based computational frameworks for multi-modal and multi-scale preclinical quantitative imaging for assessing therapeutic response. I am particularly passionate about designing foundational models which are quantitatively **interpretable, reproducible, scalable** and hence can be deployed for translational purposes in co-clinical imaging.
 
-🛠️ In the Summer of 2023, I worked as a **Data Science Intern** for [Bristol Myers Squibb](https://www.bms.com/) under the supervision of [Dr. Mariann Micsinai-Balan](https://www.linkedin.com/in/mariannmicsinai/) and [David Paulucci](https://www.linkedin.com/in/david-paulucci/). I developed **deep learning-based pipelines** for automatic analysis of large dataset of multi-modal medical images, radiomics feature extraction, and prediction of patient outcomes, utilizing **Clinical Trial Data** and **Real-World Data (RWD)** to predict survival and therapeutic response.
+🛠️ In the Summer of 2023, I worked as a **Data Science Intern** for [**Bristol Myers Squibb**](https://www.bms.com/) under the supervision of [**Dr. Mariann Micsinai-Balan**](https://www.linkedin.com/in/mariannmicsinai/) and [**David Paulucci**](https://www.linkedin.com/in/david-paulucci/). I developed **deep learning-based pipelines** for automatic analysis of large dataset of multi-modal medical images, radiomics feature extraction, and prediction of patient outcomes, utilizing **Clinical Trial Data** and **Real-World Data (RWD)** to predict survival and therapeutic response.
 
 
-# Selected Experience
-
+## Timeline
+* **January 2024 - Passed the Annual Doctoral Committee Update Examination
+* **November 2023 - 
 
 
 ## 🤖 Open Source Contributions
