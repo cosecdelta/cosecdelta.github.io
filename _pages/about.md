@@ -10,8 +10,8 @@ redirect_from:
 
 
 
-//![Illustration of combining vision and language modalities](/images/image_to_text_vis.png){: .align-right width="300px"}
-👨🏻‍💻 I'm a final year graduate student at the TU Berlin.
+<!---![Illustration of combining vision and language modalities](/images/image_to_text_vis.png){: .align-right width="300px"}-->
+👨🏻‍💻 I'm fifth year PhD Student in [Imaging Science](https://engineering.wustl.edu/academics/programs/imaging-science/index.html) which is an interdisciplinary program between [McKelvey School of Engineering](https://engineering.wustl.edu/index.html) and [Washington University School of Medicine](https://medicine.wustl.edu/). 
 
 🔬 My research interests are in bridging vision and language modalities and Self-Supervised Learning!
 
