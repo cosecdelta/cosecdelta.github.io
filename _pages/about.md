@@ -19,9 +19,21 @@ redirect_from:
 🛠️ In the Summer of 2023, I worked as a **Data Science Intern** for [**Bristol Myers Squibb**](https://www.bms.com/) under the supervision of [*Dr. Mariann Micsinai-Balan*](https://www.linkedin.com/in/mariannmicsinai/) and [*David Paulucci*](https://www.linkedin.com/in/david-paulucci/). I developed **deep learning-based pipelines** for automatic analysis of large dataset of multi-modal medical images, radiomics feature extraction, and prediction of patient outcomes, utilizing **Clinical Trial Data** and **Real-World Data (RWD)** to predict survival and therapeutic response.
 
 
-## Timeline
-* **January 2024 - Passed the Annual Doctoral Committee Update Examination
-* **November 2023 - 
+## Recent News
+* **January 2024** - Passed the Annual Doctoral Committee Update Examination
+* **November 2023** - Oral Presentation and Trainee Grant Awarded for IEEE NSS/MIC
+* **June 2023** - Poster Presentation for SNMMI 
+* **May 2023** - Started working as *Data Science Intern* for **Bristol Myers Squibb**
+* **April 2023** - Elected as the *Graduate Student Representative* to the **WashU Board of Trustees**
+* **March 2023** - Outstanding Leadership Award from Imaging Science Program at McKelvey School of Engineering
+* **December 2022** - Passed WashU Imaging Science PhD Dissertation Proposal Examination
+* **October 2022** - Oral Presentation for WMIC Miami
+* **August 2022** - Poster Award Winner in NCI ITCR
+* **June 2022** - Poster Award Winner in OIP
+* **April 2022** - Best Poster Award in Imaging Science Retreat WUSTL
+* **February 2022** - Oral Presentation for SPIE Medical Imaging
+* **July 2021** - Passed WashU Imaging Science PhD Qualifying Examination
+* **June 2021** - [Journal Paper](https://www.mdpi.com/2072-6694/13/15/3795) on multi-contrast MR Segmentation and quantitative analysis accepted in Cancers [IF:6.2].
 
 
 ## 🤖 Open Source Contributions
