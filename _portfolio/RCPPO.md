@@ -1,6 +1,6 @@
 ---
 title: "Deep Learning based Multi-Contrast MR Segmentation"
-excerpt: "Automatic segmentation of multi-contrast MR images followed by quantitative analysis. <br/><img src='/images/Slide2.png'>"
+excerpt: "Automatic segmentation of multi-contrast MR images followed by quantitative analysis. <br/><img src='/images/dl-seg.JPG'>"
 collection: portfolio
 ---
 
