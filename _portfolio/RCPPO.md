@@ -1,6 +1,6 @@
 ---
-title: "RCPPO"
-excerpt: "Implementation of RCPO into stable-baselines3 PPO. <br/><img src='/images/RCPPO.png'>"
+title: "Deep Learning based Multi-Contrast MR Segmentation"
+excerpt: "Automatic segmentation of multi-contrast MR images followed by quantitative analysis. <br/><img src='/images/RCPPO.png'>"
 collection: portfolio
 ---
 
