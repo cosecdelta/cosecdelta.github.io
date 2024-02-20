@@ -1,6 +1,6 @@
 ---
-title: "Deep Learning based Multi-Contrast MR Segmentation"
-excerpt: "Automatic segmentation of multi-contrast MR images followed by quantitative analysis. <br/><img src='/images/dl-seg.JPG'>"
+title: "Deep-Learning based Tumor Segmentation in Multiparametric MR"
+excerpt: " Developed a end-to-end pipeline for automatic tumor segmentation and quantitative analysis for preclinical multiparametric Triple Negative Breast Cancer (TNBC) PDX MR images. The pipeline consists of a novel deep-learning architecture called **Dense Recurrent Residual U-Net (DR2U-Net)** for automatic tumor segmentation. Further we extracted radiomics features from the segmented maps to validate the robustness of segmentation boundaries and to estabilisged the reporducibility of the framework. <br/><img src='/images/dl-seg.JPG'>"
 collection: portfolio
 ---
 
