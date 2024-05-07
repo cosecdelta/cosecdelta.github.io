@@ -20,6 +20,8 @@ redirect_from:
 
 
 ## 📰 Recent News
+* **May 2024** - [Journal Paper](https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.17105) on preclinical Standard-Count PET image generation from multiple Low-Count PET using Attention Residual Dilated Network (ARD-Net) followed by multi-objective task-based performamce assesment published in [Medical Physics](https://aapm.onlinelibrary.wiley.com/journal/24734209)
+* **April 2024** - [**Awarded**](https://badgr.com/public/assertions/cBw6IgP3SpGhnpZ3GJIQNQ?identity__email=kaushik.dutta@wustl.edu&action=download) certificate for Leadership and Management in Action Programme (L-MAP) for completing 12-hours of formal leadership, management, and inclusive teamwork skillset training. 
 * **January 2024** - **Passed** the Annual Doctoral Committee Update Examination
 * **November 2023** - [Oral Paper](https://ieeexplore.ieee.org/abstract/document/10338657) on self-supervised PET Denoising presented and **Trainee Grant** Awarded at 2023 [IEEE NSS/MIC](https://nssmic.ieee.org/2023/) Vancouver Canada
 * **May 2023** - Started working as *Data Science Intern* for **Bristol Myers Squibb**
@@ -31,7 +33,7 @@ redirect_from:
 * **June 2022** - [Abstract](https://jnm.snmjournals.org/content/63/supplement_2/3222.abstracthttps://jnm.snmjournals.org/content/63/supplement_2/3222.abstract) presented on quantitatively accurate PET image generation in 2023 [SNMMI](https://www.snmmi.org/index.aspx) Vancouver Canada.
 * **April 2022** - Poster Award Winner (1st Place) in [Oncologic Imaging Program](https://siteman.wustl.edu/research/research-programs/oncologic-imaging-program-oip/) at Siteman Cancer Center.
 * **March 2022** - Best Poster Award in WashU Imaging Science Retreat 2022.
-* **February 2022** - [Oral Paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12031/120311F/Deep-learning-framework-to-synthesize-high-count-preclinical-PET-images/10.1117/12.2612729.full) on deep-learning based high-count preclinical PET image generationon simulated phantoms presented at 2022 [SPIE Medical Imaging](https://spie.org/conferences-and-exhibitions/medical-imaging/program#_=_) San Diego USA.
+* **February 2022** - [Oral Paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12031/120311F/Deep-learning-framework-to-synthesize-high-count-preclinical-PET-images/10.1117/12.2612729.full) on deep-learning based high-count preclinical PET image generation simulated phantoms presented at 2022 [SPIE Medical Imaging](https://spie.org/conferences-and-exhibitions/medical-imaging/program#_=_) San Diego USA.
 * **July 2021** - Passed WashU Imaging Science PhD Qualifying Examination
 * **June 2021** - [Journal Paper](https://www.mdpi.com/2072-6694/13/15/3795) on multi-contrast MR Segmentation and quantitative analysis accepted in Cancers [IF:6.2].
 
