@@ -22,12 +22,18 @@ redirect_from:
 
 
 ## 📰 Recent News
+* **July 2025** - Presented my work **"Parameter Efficient Fine-Tuning of Large Vision Foundational Models for Multi-Channel Medical Image Segmentation"** at MIDL 2025.
+* **June 2025** - Our paper titled *"Noise‐aware system generative model (NASGM): positron emission tomography (PET) image simulation framework with observer validation studies"* got accepted in **Medical Physics**.
+* **February 2025** - Our **two** papers got accepted in SPIE Medical Imaging 2025.
+* **December 2024** - Started working as a **Senior Manager, Data Science** for **Bristol Myers Squibb**.
+* **December 2024** - Awarded the **PhD in Imaging Science** from Washington University in St. Louis.
+* **November 2024** - Successfully defended my thesis titled *"Development of Computational Imaging Pipelines to advance Quantitative Co-Clinical Imaging and Pathology"*
 * **May 2024** - [Journal Paper](https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.17105) on preclinical Standard-Count PET image generation from multiple Low-Count PET using Attention Residual Dilated Network (ARD-Net) followed by multi-objective task-based performamce assesment published in [Medical Physics](https://aapm.onlinelibrary.wiley.com/journal/24734209)
 * **April 2024** - [**Awarded**](https://badgr.com/public/assertions/cBw6IgP3SpGhnpZ3GJIQNQ?identity__email=kaushik.dutta@wustl.edu&action=download) certificate for Leadership and Management in Action Programme (L-MAP) for completing 12-hours of formal leadership, management, and inclusive teamwork skillset training. 
 * **January 2024** - **Passed** the Annual Doctoral Committee Update Examination
 * **November 2023** - [Oral Paper](https://ieeexplore.ieee.org/abstract/document/10338657) on self-supervised PET Denoising presented and **Trainee Grant** Awarded at 2023 [IEEE NSS/MIC](https://nssmic.ieee.org/2023/) Vancouver Canada
 * **May 2023** - Started working as *Data Science Intern* for **Bristol Myers Squibb**
-* **April 2023** - Elected as the *Graduate Student Representative* to the [**WashU Board of Trustees**](https://boardoftrustees.wustl.edu/)
+* **April 2023** - Elected as the *Graduate Student Trustee* to the [**WashU Board of Trustees**](https://boardoftrustees.wustl.edu/)
 * **March 2023** - **Outstanding Leadership Award** from Imaging Science Program at McKelvey School of Engineering.
 * **December 2022** - **Passed** WashU Imaging Science PhD Dissertation Proposal Examination.
 * **October 2022** - Abstract Presented at Oral Presentation in 2022 [WMIC](https://wmis.org/wmic-2022-highlights/) Miami.
